@@ -1,0 +1,10 @@
+---
+services:
+  service1:
+    platform: linux/amd64
+    build:
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/app
