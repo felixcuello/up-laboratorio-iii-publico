@@ -9,6 +9,7 @@ RUN apt update && \
       curl \
       gdb \
       git \
+      htop \
       less \
       make \
       man \
