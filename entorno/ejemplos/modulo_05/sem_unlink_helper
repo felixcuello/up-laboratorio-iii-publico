@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+#
+# sem_unlink_helper <nombre_semaforo>
+#
+# Elimina el semáforo POSIX con nombre pasado como primer parámetro
+# (por ejemplo "sem_contador", el usado por incrementador.c).
+#
+# Los semáforos POSIX con nombre se representan en Linux como archivos
+# dentro de /dev/shm con el prefijo "sem." (por ejemplo, el semáforo
+# "/sem_contador" aparece como /dev/shm/sem.sem_contador).
+
+SEMAFORO="$1"
+
+rm -f "/dev/shm/sem.${SEMAFORO}"
