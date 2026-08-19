@@ -8,7 +8,7 @@ el caso). Esto es orientativo como para que tengas
 Su Mo Tu We Th Fr Sa
                    1
  2  3  4  5  6  7  8   << Semana 1: Modulo 00 & Modulo 01: Introducción
- 9 10 11 12 13 14 15   << Semana 2: MOdulo 02: Archivos / Entrega Parte 1 TP
+ 9 10 11 12 13 14 15   << Semana 2: MOdulo 02: Archivos / Enunciado TP (Parte 1)
 16 17 18 19 20 21 22   << Semana 3: Modulo 03: Procesos / Actividad Grupal (vence modulo 05)
 23 24 25 26 27 28 29   << Semana 4: Modulo 04: POSIX
 30 31
@@ -18,7 +18,7 @@ Su Mo Tu We Th Fr Sa
        1  2  3  4  5   << Semana 5: Modulo 05: Semáforos
  6  7  8  9 10 11 12   << Semana 6*: Modulo 06: Memoria compartida / Actividad Grupal (vence modulo 08) / Clase Sincrónica
 13 14 15 16 17 18 19   << Semana 7: PRIMER PARCIAL
-20 21 22 23 24 25 26   << Semana 8: Modulo 07: Cola de mensajes / Entrega Parte 2 TP
+20 21 22 23 24 25 26   << Semana 8: Modulo 07: Cola de mensajes / Enunciado TP (Parte 2)
 27 28 29 30            << Semana 9: Modulo 08: Introducción a Threads
 
       October
