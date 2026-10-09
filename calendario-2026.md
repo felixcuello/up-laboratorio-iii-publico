@@ -27,11 +27,11 @@ Su Mo Tu We Th Fr Sa
  4  5  6  7  8  9 10  << Semana 10*: Modulo 09: Multi-threading / Clase sincrónica
 11 12 13 14 15 16 17  << Semana 11: Modulo 10: Señales / Entrega del TP a principio de esta semana
 18 19 20 21 22 23 24  << Semana 12: Modulo 11: Sockets (Comunicación en red)
-25 26 27 28 29 30 31  << Entrega Final TP (a principio de semana 28/10)
+25 26 27 28 29 30 31  (Espacio reservado para feedback & consultas)
 
       November
 Su Mo Tu We Th Fr Sa
- 1  2  3  4  5  6  7  (Espacio reservado para feedback & consultas)
+ 1  2  3  4  5  6  7  << Entrega Final TP (a principio de semana 3/11)
  8  9 10 11 12 13 14  << SEGUNDO PARCIAL
 15 16 17 18 19 20 21  << Semana 14: Recuperatorio dentro de cursada
 22 23 24 25 26 27 28  << Semana 15: Recuperatorio fuera de cursada
