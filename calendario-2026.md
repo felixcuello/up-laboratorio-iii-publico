@@ -31,7 +31,7 @@ Su Mo Tu We Th Fr Sa
 
       November
 Su Mo Tu We Th Fr Sa
- 1  2  3  4  5  6  7  << Entrega Final TP (a principio de semana 3/11)
+ 1  2  3  4  5  6  7  << Entrega Final TP (a final de semana 5/11)
  8  9 10 11 12 13 14  << SEGUNDO PARCIAL
 15 16 17 18 19 20 21  << Semana 14: Recuperatorio dentro de cursada
 22 23 24 25 26 27 28  << Semana 15: Recuperatorio fuera de cursada
